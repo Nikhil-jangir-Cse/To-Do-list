@@ -1,2 +1,2 @@
 # To-Do-list
-A To-Do list for scheduling your activitiesp.
+A To-Do list for scheduling your activities.
